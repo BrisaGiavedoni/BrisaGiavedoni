@@ -61,7 +61,7 @@
 
 - ✉️ **giavedonibrisa@gmail.com**
 - 📍 Rosario, Santa Fe, Argentina
-- 🌐 [Mi CV])(https://www.canva.com/design/DAGt5bSOBsM/mWxGDN3iz6LueycfZWp1Aw/edit)
+- 🌐 [Mi CV](https://www.canva.com/design/DAGt5bSOBsM/mWxGDN3iz6LueycfZWp1Aw/edit)
 
 ---
 
