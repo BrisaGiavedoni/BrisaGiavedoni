@@ -1,16 +1,21 @@
-## Hi there 👋
+### ¡Hola! Soy Brisa 👋
 
-<!--
-**BrisaGiavedoni/BrisaGiavedoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora en formación  
+📍 Rosario, Argentina  
+🌱 Actualmente aprendiendo Odoo, Python y desarrollo Frontend  
+📫 Contacto: giavedonibrisa@gmail.com  
+🔗 [Mi portafolio](https://github.com/BrisaGiavedoni)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Tecnologías que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+
+![Brisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=radical)
 -->
