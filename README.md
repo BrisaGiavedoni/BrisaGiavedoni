@@ -1,8 +1,8 @@
 ### ¡Hola! Soy Brisa 👋
 
-💻 Desarrolladora en formación  
+💻 Desarrolladora Front End en formación  
 📍 Rosario, Argentina  
-🌱 Actualmente aprendiendo Odoo, Python y desarrollo Frontend  
+🌱 Actualmente aprendiendo desarrollo Frontend  , tambien con conocimiento en Odoo y python
 📫 Contacto: giavedonibrisa@gmail.com  
 🔗 [Mi portafolio](https://github.com/BrisaGiavedoni)
 
