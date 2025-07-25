@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **Odoo 18**, **Python**, **HTML** y **JavaScript**
+- 🌱 Actualmente estoy aprendiendo *Desarrollo Front End* , tambien tengo conocimiento en *Odoo* y *Python*
 - 🔧 Desarrollé un **módulo de gestión de estacionamiento** para Odoo en un hackathon
 - 🚀 Me apasiona combinar el **backend y el frontend**
 - 🎯 Busco crecer como **desarrolladora fullstack**
