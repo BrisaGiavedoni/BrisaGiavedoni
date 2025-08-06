@@ -2,6 +2,8 @@
   <img src="banners.png" alt="Brisa Giavedoni Banner" />
 </p>
 ---
+
+
 ## 📌 Sobre mí
 
 💻 Me estoy formando como **desarrolladora web**, con enfoque en el **frontend**.  
