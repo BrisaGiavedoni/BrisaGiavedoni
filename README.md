@@ -1,8 +1,6 @@
 <p align="center">
   <img src="banners.png" alt="Brisa Giavedoni Banner" />
 </p>
----
-
 
 ## 📌 Sobre mí
 
