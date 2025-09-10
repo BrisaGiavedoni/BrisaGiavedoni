@@ -2,88 +2,101 @@
   <img src="banners.png" alt="Brisa Giavedoni Banner" />
 </p>
 
-## 📌 Sobre mí
+<h2 align="center">¡Hola! Soy Brisa 👋</h2>
 
-💻 Me estoy formando como **desarrolladora web**, con enfoque en el **frontend**.  
-🚀 Me encanta aprender haciendo, por eso aplico lo que estudio en proyectos reales.  
-🎯 Mi objetivo es crear aplicaciones accesibles, modernas y centradas en la experiencia de usuario.  
-✨ Participé en un hackathon desarrollando un módulo de gestión en **Odoo 18**.
+<p align="center">
+  Desarrolladora web en formación, enfocada en el <strong>frontend</strong>. Apasionada por crear experiencias accesibles, modernas y centradas en el usuario.
+</p>
+
+---
+
+## 💡 Sobre mí
+
+- 👩‍💻 Actualmente formándome como **desarrolladora web**, con especial interés en **HTML, CSS y JavaScript**.
+- 🚀 Me gusta aprender haciendo: aplico lo que estudio en proyectos reales y desafíos prácticos.
+- 🎯 Enfocada en construir interfaces accesibles, limpias y con buena experiencia de usuario.
+- 🧩 Participé en un hackathon desarrollando un módulo de gestión en **Odoo 18**.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
 
-</div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+</p>
 
 ---
 
 ## 🚀 Proyectos destacados
 
 🔹 [**Frontend-ADA**](https://github.com/BrisaGiavedoni/Frontend-ADA)  
-📚 Ejercitaciones de desarrollo front-end con HTML, CSS y JS.
+📚 Prácticas front-end con HTML, CSS y JavaScript.
 
 🔹 [**modulo-estacionamiento-odoo18**](https://github.com/BrisaGiavedoni/modulo-estacionamiento-odoo18)  
-🚗 Módulo de gestión de estacionamientos para Odoo 18 – Proyecto de hackathon.
+🚗 Módulo de gestión de estacionamiento en **Odoo 18** – Proyecto para hackathon.
 
 🔹 [**Integrador_Final_ADA**](https://github.com/BrisaGiavedoni/Integrador_Final_ADA)  
-📖 Sistema de gestión de biblioteca – Proyecto final con JS.
+📖 Sistema de gestión de biblioteca usando JavaScript.
 
 🔹 [**ADA-TRABAJOS**](https://github.com/BrisaGiavedoni/ADA-TRABAJOS)  
-📝 Resolución de ejercicios prácticos durante mi formación.
+📝 Ejercicios y prácticas realizadas durante mi formación.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-</div>
+</p>
 
 ---
 
 ## 📌 Actividad reciente
 
 - 📝 Actualicé el `README.md` – *25 de julio, 2025*  
-- 💻 Agregué clase 2 y ejercicios en Frontend-ADA – *25 de julio, 2025*  
-- 🚀 Creé el repositorio modulo-estacionamiento-odoo18 – *14 de julio, 2025*
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-giavedonibrisa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giavedonibrisa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brisa%20Giavedoni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisa-giavedoni/)
-[![GitHub](https://img.shields.io/badge/GitHub-BrisaGiavedoni-24292e?style=for-the-badge&logo=github)](https://github.com/BrisaGiavedoni)
-
-</div>
+- 💻 Subí clase 2 y ejercicios en Frontend-ADA – 10 de Septiembre, 2025*  
+- 🚀 Creé el repositorio `modulo-estacionamiento-odoo18` – *14 de julio, 2025*
 
 ---
 
 ## 🎯 Actualmente
 
-- Fortaleciendo mis conocimientos en **HTML, CSS y JavaScript**.
-- Buscando mi primera experiencia laboral en tecnología 💼.
-- Abierta a colaboraciones, prácticas o proyectos donde pueda aprender y aportar 🤝.
+- Aprendiendo en profundidad **HTML, CSS y JavaScript**.
+- Buscando mi **primera experiencia laboral** en tecnología 💼.
+- Abierta a **colaboraciones**, prácticas o proyectos donde pueda aportar y seguir creciendo 🤝.
 
 ---
 
-<div align="center">
+## 📬 Contacto
 
-✨ *¡Gracias por visitar mi perfil!* ✨
+<p align="center">
 
+  <a href="mailto:giavedonibrisa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-giavedonibrisa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/brisa-giavedoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Brisa%20Giavedoni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/BrisaGiavedoni">
+    <img src="https://img.shields.io/badge/GitHub-BrisaGiavedoni-24292e?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  ✨ ¡Gracias por visitar mi perfil! ✨  
+</p>
 
