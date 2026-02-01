@@ -5,82 +5,81 @@
 <h1 align="center">¡Hola! Soy Brisa 👋</h1>
 
 <p align="center">
-  Desarrolladora web en formación, apasionada por el <strong>frontend</strong>. 
-  Mi enfoque es crear aplicaciones accesibles, modernas y, sobre todo, centradas en una excelente experiencia de usuario (UX).
+  <strong>Desarrolladora Web en formación</strong> | Apasionada por el <strong>Frontend</strong> & <strong>UX/UI</strong>.
+  <br>
+  Enfocada en crear soluciones digitales accesibles, eficientes y con un diseño centrado en el usuario.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brisa-giavedoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giavedonibrisa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
-
 
 ## 👩‍💻 Sobre mí
 
-* Me estoy formando como **desarrolladora web** con una base sólida en **HTML5, CSS3 y JavaScript**.
-* Creo firmemente en el "aprender haciendo"; cada concepto nuevo lo aplico en proyectos reales.
-* Mi objetivo principal es desarrollar interfaces **accesibles**, con código **limpio** y **fáciles de usar**.
-* Recientemente, participé en un hackathon para crear un módulo de gestión en **Odoo 18**.
+* 🚀 Actualmente consolidando mi base como **Desarrolladora Full Stack** con un fuerte enfoque en el detalle visual.
+* 💡 Creo en el código limpio y la arquitectura escalable; mi paso por proyectos integradores me ha enseñado a gestionar la lógica compleja del lado del cliente.
+* 🛠️ Participé en el desarrollo de un módulo de gestión para **Odoo 18**, aplicando Python para soluciones empresariales.
+* 📚 "Aprender haciendo" es mi mantra personal. Cada reto es una oportunidad para documentar y mejorar.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack Tecnológico
 
-Enfocada en el Frontend, pero con bases sólidas en Backend:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+      <br>Frontend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" alt="Backend" />
+      <br>Backend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+      <br>Herramientas
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="Odoo" />
+      <br>ERP
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✨ Proyectos destacados
+## ✨ Proyectos Destacados
 
-| Repositorio | Descripción | Tecnologías | Enlace |
+| Proyecto | Descripción | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Frontend‑ADA** | Prácticas esenciales para consolidar conocimientos front-end. | HTML, CSS, JS | [Ver Repo](https://github.com/BrisaGiavedoni/Frontend-ADA) |
-| **modulo‑estacionamiento‑odoo18** | Módulo de gestión de estacionamientos creado durante un hackathon. | Python, Odoo 18 | [Ver Repo](https://github.com/BrisaGiavedoni/modulo-estacionamiento-odoo18) |
-| **Integrador_Final_ADA** | Sistema de gestión de biblioteca completo. | JavaScript, HTML, CSS | [Ver Repo](https://github.com/BrisaGiavedoni/Integrador_Final_ADA) |
-| **ADA‑TRABAJOS** | Colección de ejercicios y prácticas realizadas durante mi formación. | HTML, CSS, JS | [Ver Repo](https://github.com/BrisaGiavedoni/ADA-TRABAJOS) |
+| **📚 Integrador Final ADA** | Sistema robusto de gestión de biblioteca con manejo de inventario y préstamos. | `JS (ES6+)`, `DOM`, `CSS3` | [📂 Repo](https://github.com/BrisaGiavedoni/Integrador_Final_ADA) |
+| **🚗 Módulo Odoo 18** | Solución para gestión de estacionamientos (Hackathon). | `Python`, `Odoo Framework` | [📂 Repo](https://github.com/BrisaGiavedoni/modulo-estacionamiento-odoo18) |
+| **💻 Frontend-ADA** | Laboratorio de interfaces modernas y responsive. | `HTML5`, `CSS Grid/Flexbox` | [📂 Repo](https://github.com/BrisaGiavedoni/Frontend-ADA) |
+| **📝 ADA-TRABAJOS** | Repositorio de algoritmos y lógica de programación fundamental. | `JavaScript` | [📂 Repo](https://github.com/BrisaGiavedoni/ADA-TRABAJOS) |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&hide_title=true&locale=es" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight&locale=es" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&hide_title=true&locale=es" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight&locale=es&hide=jupyter%20notebook" alt="Top Langs" height="150" />
 </p>
 
 ---
 
-## 🎯 Actualmente
+## 🎯 ¿Qué estoy haciendo ahora?
 
-* Fortaleciendo mis habilidades en **HTML, CSS y JavaScript** para dar el salto a un framework.
-* En búsqueda activa de mi **primera experiencia laboral** en tecnología 💼.
-* Abierta a **colaboraciones** y proyectos donde pueda aportar valor y seguir aprendiendo 🤝.
-
----
-
-## 💬 Contacto
-
-¡Me encantaría conectar y conversar sobre desarrollo web!
-
-<p align="center">
-  <a href="mailto:giavedonibrisa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-giavedonibrisa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brisa-giavedoni/">
-    <img src="https://img.shields.io/badge/LinkedIn-Brisa%20Giavedoni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-</p>
+- 🔍 En búsqueda activa de mi **primera oportunidad laboral** como Desarrolladora Frontend Trainee / Junior.
+- 🧪 Experimentando con **Frameworks modernos (React)** para llevar mis proyectos al siguiente nivel.
+- 🤝 Abierta a colaborar en proyectos Open Source o iniciativas sociales.
 
 ---
 
 <p align="center">
-  ✨ ¡Gracias por visitar mi perfil! Sigamos construyendo juntos. ✨  
+  <em>"El diseño no es solo lo que se ve, sino cómo funciona."</em><br>
+  ✨ ¡Gracias por pasar por aquí! ✨
 </p>
