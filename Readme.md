@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="Banner_github.gif" alt="Brisa Giavedoni Desarrolladora Full Stack Animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=8763A8&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Brisa+Giavedoni+👋;Desarrolladora+Full+Stack;React+•+Node.js+;Construyendo+experiencias+digitales" alt="Typing SVG" />
 </p>
 
-<h1 align="center">¡Hola! Soy Brisa 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brisa-giavedoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giavedonibrisa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <p align="center">
   <strong>Desarrolladora Web Full Stack en formación</strong>
@@ -10,11 +13,6 @@
   Especializándome en el ecosistema <strong>JavaScript (React & Node.js)</strong>.
   <br>
   Enfoque en accesibilidad, interfaces modernas y soluciones escalables.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brisa-giavedoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:giavedonibrisa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -64,11 +62,10 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight&locale=es&hide=jupyter%20notebook" alt="Top Langs" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrisaGiavedoni&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de Brisa" />
 </p>
 
 ---
