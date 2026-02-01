@@ -41,6 +41,10 @@
       <br><strong>Backend</strong>
     </td>
     <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" alt="Odoo" />
+      <br><strong>ERP / Business</strong>
+    </td>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
       <br><strong>Herramientas</strong>
     </td>
