@@ -67,8 +67,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&hide_title=true&locale=es" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight&locale=es&hide=jupyter%20notebook" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrisaGiavedoni&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaGiavedoni&layout=compact&theme=tokyonight&locale=es&hide=jupyter%20notebook" alt="Top Langs" height="170" />
 </p>
 
 ---
